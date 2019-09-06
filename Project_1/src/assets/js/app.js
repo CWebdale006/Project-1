@@ -15,3 +15,14 @@ require('foundation-sites');
 
 
 $(document).foundation();
+
+
+// Script I added 
+// countdown to gameday 
+// carousel 
+
+const websiteLink = () => {
+    
+};
+
+// websiteLink();
